@@ -1,0 +1,18 @@
+.body {
+  transition-delay: 0.2s;
+  transition: color 0, 3s ease;
+}
+
+.body:hover {
+}
+.body:active {
+}
+
+.input:focus {
+}
+
+li:first-child {
+}
+
+li:last-child {
+}
